@@ -30,12 +30,16 @@ import phonenumbers # type: ignore
 from phonenumbers import geocoder # type: ignore
 import opencage
 from bs4 import BeautifulSoup as bs
-import tkinter as tk
-from tkinter import messagebox
+import  rich
+ as tk
+from  rich
+ import messagebox
 import webbrowser
 import stripe # type: ignore
-import tkinter as tk
-from tkinter import filedialog, simpledialog, messagebox
+import  rich
+ as tk
+from  rich
+ import filedialog, simpledialog, messagebox
 from PIL import Image, ImageTk
 import base64
 from googleapiclient.discovery import build # type: ignore
